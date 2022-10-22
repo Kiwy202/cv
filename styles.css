@@ -1,0 +1,19 @@
+
+
+body {background-color:rgb(0, 0, 0);
+color: white;
+
+}
+
+h1 {color: red;
+}
+
+h3 {color: red;
+}
+hr {border-style: dashed none none;
+border-width: 10px;
+width: 30%;
+color: red;
+
+}
+

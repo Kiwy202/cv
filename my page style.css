@@ -1,0 +1,67 @@
+body {
+    background-color:#222831;
+    color: #EEEEEE;
+    margin: 0%;
+    text-align: center;
+    font-family: cursive, sans-serif;
+}
+
+h1 {
+    
+margin-top: 0%;
+
+}
+
+.calvo {
+    position: relative;
+    background-color:#00ADB5;
+    padding-top: 100px;
+    color: #222831;
+    
+    
+}
+
+.motorola {
+    background-color: #222831;
+    color: #00ADB5;
+ 
+}
+
+.ipipip {
+    background-color: #9400D3;
+    width: 200px;
+    height: 200px;
+    border: solid 10px;
+    
+    
+   
+
+}
+
+.nube1 {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    
+}
+    
+
+.nube2   {
+    position: absolute;
+ 
+    left: 300px;
+    bottom: 300px;
+    
+   
+    
+}
+.Odie1 {
+
+    width: 200px;
+    height: 200px;
+}
+
+.caca {
+    width: 300px;
+    height: 200px;
+}
